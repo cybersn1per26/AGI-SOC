@@ -70,20 +70,9 @@ OSINT and private threat feeds
 AI-driven enrichment and confidence scoring
 
 🧱 System Architecture (High-Level)
-[ Data Sources ]
-   ├── Network Logs
-   ├── Endpoint Telemetry
-   ├── Cloud Events
-   ├── Application Logs
-   └── Threat Feeds
-          ↓
-[ AI / AGI Analysis Engine ]
-          ↓
-[ Detection & Correlation Layer ]
-          ↓
-[ SOAR & Response Engine ]
-          ↓
-[ SOC Dashboard & Analyst Tools ]
+
+<img width="652" height="445" alt="image" src="https://github.com/user-attachments/assets/b9577dad-3d34-4831-aab8-8986d3a3ee72" />
+
 
 🛠️ Technology Stack (Planned / In Use)
 
